@@ -7,15 +7,15 @@ body {
   --white: rgb(var(--white-raw));
   --accent_color: rgb(var(--accent_color-raw));
   --danger_color: rgb(var(--danger_color-raw));
-
-  --black_2:  rgba(var(--black-raw), 0.02);
-  --black_4:  rgba(var(--black-raw), 0.04);
-  --black_5:  rgba(var(--black-raw), 0.05);
-  --black_10: rgba(var(--black-raw), 0.1);
-  --black_15: rgba(var(--black-raw), 0.15);
-  --black_20: rgba(var(--black-raw), 0.20);
-  --black_40: rgba(var(--black-raw), 0.40);
+  --black_2:  rgb(var(--black-raw) 0.02);
+  --black_4:  rgb(var(--black-raw) 0.04);
+  --black_5:  rgb(var(--black-raw) 0.05);
+  --black_10: rgb(var(--black-raw) 0.1);
+  --black_15: rgb(var(--black-raw) 0.15);
+  --black_20: rgb(var(--black-raw) 0.20);
+  --black_40: rgb(var(--black-raw) 0.40);
 }
+
 .root {
   height: 100%;
   box-sizing: border-box;
@@ -77,10 +77,7 @@ body {
 }
 
 .offscreen-lsf.visible {
-  bottom: auto;
-  right: auto;
-  top: 0;
-  left: 0;
+  inset: 0 auto auto 0;
   opacity: 1;
 }
 
