@@ -4735,25 +4735,25 @@
   resolved "https://registry.yarnpkg.com/@testing-library/user-event/-/user-event-14.5.2.tgz#db7257d727c891905947bd1c1a99da20e03c2ebd"
   integrity sha512-YAh82Wh4TIrxYLmfGcixwD18oIjyC1pFQC2Y01F2lzV2HTMiYrI0nze0FD0ocB//CKS/7jIUgae+adPqxK5yCQ==
 
-"@thi.ng/bitstream@^2.2.36":
-  version "2.2.36"
-  resolved "https://registry.yarnpkg.com/@thi.ng/bitstream/-/bitstream-2.2.36.tgz#25c4068e7bace946e06362af21de52040f2e48aa"
-  integrity sha512-ffcMqHIrOYlIWQTjXXh9QRZ6PBXhsaP4S/t01VZPZ5WCcpSKUnUxqF8f9gLtuz6/VNB+v87L8maDiidBkKiTYA==
+"@thi.ng/bitstream@^2.2.66":
+  version "2.2.66"
+  resolved "https://registry.yarnpkg.com/@thi.ng/bitstream/-/bitstream-2.2.66.tgz#bc255d502095702740410a28cccb6ae7c1a3e6c6"
+  integrity sha512-mErQyNseLN6DMeHVj7PEgYGvkVtEzF8Okjgy8UhMqQKK2qfkM419CbNfCOIL+Nevvy2nDVy8zcWNB9F/x+sKhA==
   dependencies:
-    "@thi.ng/errors" "^2.4.6"
+    "@thi.ng/errors" "^2.5.13"
 
-"@thi.ng/errors@^2.4.6":
-  version "2.4.6"
-  resolved "https://registry.yarnpkg.com/@thi.ng/errors/-/errors-2.4.6.tgz#d55eb39977f567ed102cdf74050c9db21fcefd02"
-  integrity sha512-KWwSVCMqfh5wuwEPQx/Bzeo5dqZDEK1hN/sRfHd+50SUyE8lIEYAIoeIVlQ2zFiOO+7KgTiamIVLpWdqdOnOqw==
+"@thi.ng/errors@^2.5.13":
+  version "2.5.13"
+  resolved "https://registry.yarnpkg.com/@thi.ng/errors/-/errors-2.5.13.tgz#9afa3de2f4e902fff23a3118d15ce65c000bf33a"
+  integrity sha512-wutJa2in1sTBSrYqW15Y+GxOeHP2oHUWkNww1e3eoNK05k7EaIf9cAaOU1SKiRlimtVXqIsWqeHpz8lQPePU8Q==
 
-"@thi.ng/rle-pack@^3.1.30":
-  version "3.1.44"
-  resolved "https://registry.yarnpkg.com/@thi.ng/rle-pack/-/rle-pack-3.1.44.tgz#854134c49a03613e36bf409fc29b2fce8db9d983"
-  integrity sha512-lTGlNSi5Zm6xLVW2F3myzAhV8nEA00c+XB8qpmkLUszzpQNOFPAP8e/ko0ehp0mvUZ1BJG/dbXuoKCcpHQxK2g==
+"@thi.ng/rle-pack@^3.1.71":
+  version "3.1.74"
+  resolved "https://registry.yarnpkg.com/@thi.ng/rle-pack/-/rle-pack-3.1.74.tgz#5cc8fe95c2ae17d34987b9e7e1b3546720f0af66"
+  integrity sha512-4m1ajafeOli0xHUBp5rVHVdBmpa0mN273iNGqTUTj76txi0qAIFEnpF8by2w9rns1AhA+0Aq1ZBNNNYqKy51kA==
   dependencies:
-    "@thi.ng/bitstream" "^2.2.36"
-    "@thi.ng/errors" "^2.4.6"
+    "@thi.ng/bitstream" "^2.2.66"
+    "@thi.ng/errors" "^2.5.13"
 
 "@tokenizer/token@^0.3.0":
   version "0.3.0"
