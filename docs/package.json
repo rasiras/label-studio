@@ -35,11 +35,11 @@
     "hexo-jupyter-notebook": "0.0.3",
     "hexo-renderer-ejs": "^2.0.0",
     "hexo-renderer-marked": "^6.1.0",
-    "hexo-renderer-stylus": "^0.3.3",
+    "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
     "node-html-parser": "^6.1.4",
     "notion-to-md": "https://github.com/huguestennier/notion-to-md",
-    "save": "^2.4.0"
+    "save": "^2.5.0"
   },
   "resolutions": {
     "follow-redirects": "^1.15.5",
